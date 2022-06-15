@@ -12,7 +12,7 @@ This full stack MERN chat app is an application designed to connect users with n
 ### [Contributions](#contributions) 
 ### [Questions](#questions) 
 
-![User creates a login, logs in, and navigates chat features sections on the webpage.](./src/components/images/....png)
+![User creates a login, logs in, and navigates chat features sections on the webpage.](./project-chat-frontend/src/assets/exchange-social-chat-app.png)
 
 ---
 
