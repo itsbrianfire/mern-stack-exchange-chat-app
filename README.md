@@ -24,15 +24,15 @@ To install and run, open the code in VS Code.
 
 Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
 
-- **[GitHub Deployment]()**
-- **[Heroku deployment]()**
+- **[GitHub Deployment](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**
+- **[Heroku deployment](https://mern-stack-exchange-chat-app.herokuapp.com/)**
 
 
 ---
 
 
 ## Usage
-Upon using this app, You will be able to create a user, login to the app, navigate to the app's different chat rooms, and chat with fellow users on the app. Run the MERN stack app and navigate the site **[here]()**.
+Upon using this app, You will be able to create a user, login to the app, navigate to the app's different chat rooms, and chat with fellow users on the app. Run the MERN stack app and navigate the site **[here](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**.
 
 ### **Future Developments**
 In the future we intend to:
