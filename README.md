@@ -22,6 +22,7 @@ This web app uses [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://ww
 
 To install and run, open the code in VS Code. 
 
+- **[GitHub Repository](https://github.com/itsbrianfire/mern-stack-exchange-chat-app)**
 - **[GitHub Deployment](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**
 - **[Heroku deployment](https://mern-stack-exchange-chat-app.herokuapp.com/)**
 
