@@ -22,8 +22,6 @@ This web app uses [MongoDB](https://www.mongodb.com/), [Mongoose ODM](https://ww
 
 To install and run, open the code in VS Code. 
 
-Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
-
 - **[GitHub Deployment](https://itsbrianfire.github.io/mern-stack-exchange-chat-app/)**
 - **[Heroku deployment](https://mern-stack-exchange-chat-app.herokuapp.com/)**
 
